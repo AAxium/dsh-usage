@@ -1,0 +1,14 @@
+node_modules/
+*.tgz
+.env
+.env.*
+!.env.example
+.npmrc
+*.pem
+*.key
+*.p12
+*.pfx
+credentials*.json
+auth.json
+.DS_Store
+Thumbs.db
